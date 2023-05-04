@@ -5,9 +5,9 @@ Implementation of MIREA document template in Typst
 
 ```
 #show: project.with(
-  title: "ontology",
+  title: "<name of project>",
   authors: (
-    "Andrey Lomovtsev",
+    "Your Name",
   ),
 )
 ```
